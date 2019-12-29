@@ -1,0 +1,26 @@
+/* CSS Document */
+table{margin: 0 auto;}
+
+#qwe{width:1000px;height: 250px; margin:0 auto;}
+#qwer{width:1000px;height: 400px; margin:0 auto;}
+#q1{width:1200px;height: 2200px; margin:0 auto;}
+#11{width: 600px;height: 600px;margin:0 auto;}
+table a:link{text-decoration: none;
+	display:block;width:180px;height:23px;}
+table a:hover{font-size: 100%}
+#a1,#a2,#a3{
+    
+	width: 250px;
+   color:#FFFFFF; 
+    
+	padding-left:10px;
+}
+#a1{position: relative;
+    left: 102px;
+    top: -60px;}
+#a2{position: relative;
+    left: 370px;
+    top: -100px;}
+#a3{position: relative;
+    left: 640px;
+    top: -159px;}

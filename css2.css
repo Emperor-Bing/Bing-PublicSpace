@@ -1,0 +1,20 @@
+/* CSS Document */
+body{text-align: center;}
+li{
+    float: left;
+    list-style-type: none;
+    padding: 5px;
+	}
+a:link{text-decoration: none;
+	display:block;width:180px;height:23px;color:#000;}
+a:hover{font-size: 110%;}
+a:visited{color:#248023;}
+#sign{width: 20px; position: relative;bottom: 75px;left: 1020px;}
+#left{float: left;width: 300px;font-size: 25px;}
+#right{flopat:left;margin-top: 50px;}
+#right{position: relative;left: -90px;text-color: #000000;}
+.search{width: 500px;height: 40px;border-color:#4AB823;border-style: solid;}
+.button{width: 65px;height: 40px;background:#36DD1C;font-size: 20px;font-family: "黑体" ;}
+
+sign>a:hover{color: #99CF18;}
+#left{position:relative;top:10px;}
